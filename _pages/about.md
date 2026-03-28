@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of CSE](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I am a member of the LIMITI Robotics Team at the University of Electronic Science and Technology of China, currently serving as the Visual Group Leader and preparing for the 2025 Robocon competition. My research interests include SLAM (Simultaneous Localization and Mapping), computer vision, and deep learning. Currently, my primary focus is on SLAM, aiming to provide fast, accurate, and robust localization for robots through laser SLAM algorithms.
+[cite_start]I am a third-year undergraduate student [cite: 6] [cite_start]pursuing a double degree in Computer Science and Technology, and Finance [cite: 6] [cite_start]at the School of CSE, University of Electronic Science and Technology of China (UESTC)[cite: 5]. [cite_start]I am the Visual Group Leader of the LIMITI Robotics Team at UESTC [cite: 22][cite_start], and our team won the 2025 National Robotics Competition Robocon Championship[cite: 21, 54]. [cite_start]My research interests include SLAM (Simultaneous Localization and Mapping) [cite: 23][cite_start], computer vision [cite: 14][cite_start], and robotics systems[cite: 12]. [cite_start]Currently, my primary focus is on 3D Lidar SLAM [cite: 23] [cite_start]and autonomous navigation [cite: 16][cite_start], aiming to provide fast, accurate, and robust localization for robots[cite: 26].
 
-[Email](mailto:2736463842@qq.com) / [Github](https://github.com/Lockwuud) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:whejia2@gmail.com) / [Github](https://github.com/Lockwuud) / [Wechat](../images/wechat.jpg)
